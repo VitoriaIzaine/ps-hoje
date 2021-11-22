@@ -1,0 +1,171 @@
+<div class="pg2">
+      <h1>
+        2. Disponibilidade de equipamentos, máquinas e ferramentas para a
+        realização do curso
+      </h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg3">
+      <h1>
+        3. Qualidade de apostilas, livros e textos, quanto a impressão e a
+        adequação da informação
+      </h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg4">
+      <h1>4. Cumprimento do horário das aulas</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg5">
+      <h1>5. Cumprimento dos objetivos propostos pelo curso</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg6">
+      <h1>6. Preocupação do docente com o aproveitamento dos alunos</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg7">
+      <h1>7. Domínio do docente sobre os assuntos tratados</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg8">
+      <h1>8. O aprendizado, na teoria e na prática, em relação ao esperado</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg9">
+      <h1>9. Conteúdo do curso, em relação às expectativas</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg10">
+      <h1>10. Atendimento da recepção / secretaria da escola</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg11">
+      <h1>11. Atendimento telefônico da escola</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+
+    <div class="pg12">
+      <h1>12. Atendimento da cantina / lanchonete</h1>
+      <h6>Nível de importância:</h6>
+      <div id="v-model-radiobutton">
+        <input type="radio" id="one" value="One" v-model="picked" />
+        <label for="one">Alta</label>
+        <br />
+        <input type="radio" id="two" value="Two" v-model="picked" />
+        <label for="two">Media</label>
+        <br />
+        <input type="radio" id="three" value="Three" v-model="picked" />
+        <label for="three">Baixa</label>
+      </div>
+    </div>
+  </div>
